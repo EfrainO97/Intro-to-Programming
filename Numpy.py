@@ -42,12 +42,6 @@
 #a = np.random.uniform(1,50, 20)
 
 
-# In[ ]:
-
-
-get_ipython().run_line_magic('pip', 'install numpy')
-
-
 # In[1]:
 
 
